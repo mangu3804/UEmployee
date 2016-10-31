@@ -11,7 +11,7 @@ public class Staff extends UEmployee {
      * constructor
      * pre: none
      * post: Staff object has been created.
-     * name initialized to "
+     * name initialized to "Janitor"
      */
     public Staff() {
         super();

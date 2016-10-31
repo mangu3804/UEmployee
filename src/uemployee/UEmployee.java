@@ -32,7 +32,7 @@ public class UEmployee {
     }
     
     /**
-     * Returns the radius of the circle.
+     * Returns the name of the employee.
      * pre: none
      * post: The name of the employee has been returned.
      */
@@ -41,7 +41,7 @@ public class UEmployee {
     }
     
     /**
-     * Returns the radius of the circle.
+     * Returns the salary of the employee.
      * pre: none
      * post: The salary of the employee has been returned.
      */
